@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-metal #For macOS M Series
+pandas
+numpy
+matplotlib
+augmentor
